@@ -5,7 +5,7 @@
   <link href="/JS-Monthly-Chengdu/atom.xml" rel="self"/>
   
   <link href="http://thoughtworksinc.github.io/JS-Monthly-Chengdu/"/>
-  <updated>2019-02-19T07:33:50.000Z</updated>
+  <updated>2019-05-13T09:49:04.000Z</updated>
   <id>http://thoughtworksinc.github.io/JS-Monthly-Chengdu/</id>
   
   <author>
@@ -14,6 +14,42 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>JavaScript Monthly 第三十三期</title>
+    <link href="http://thoughtworksinc.github.io/JS-Monthly-Chengdu/2019/02/18/monthly-issue-33/"/>
+    <id>http://thoughtworksinc.github.io/JS-Monthly-Chengdu/2019/02/18/monthly-issue-33/</id>
+    <published>2019-02-17T16:00:00.000Z</published>
+    <updated>2019-05-13T09:49:04.000Z</updated>
+    
+    <content type="html"><![CDATA[<h4 id="CSS"><a href="#CSS" class="headerlink" title="CSS"></a>CSS</h4><p><a href="https://css-irl.info/to-grid-or-to-flex/?utm_source=CSS-Weekly&amp;utm_campaign=Issue-350&amp;utm_medium=web" target="_blank" rel="external">To Grid or to Flex?</a><br>全面对比Grid和Flex布局</p>
+<p><a href="https://www.smashingmagazine.com/2019/02/css-browser-support/?utm_source=CSS-Weekly&amp;utm_campaign=Issue-350&amp;utm_medium=web" target="_blank" rel="external">A Guide To CSS Support In Browsers</a><br>轻松处理CSS在不同类型的浏览器支持问题</p>
+<p><a href="https://codepen.io/briziel/full/oJdNdB?utm_source=CSS-Weekly&amp;utm_campaign=Issue-350&amp;utm_medium=web" target="_blank" rel="external">Solar System 3D Animation</a><br>纯CSS实现的太阳系3D动画</p>
+<a id="more"></a>
+<h4 id="JAVASCRIPT"><a href="#JAVASCRIPT" class="headerlink" title="JAVASCRIPT"></a>JAVASCRIPT</h4><p><a href="https://reactjs.org/blog/2019/02/06/react-v16.8.0.html" target="_blank" rel="external">React v16.8 Released</a><br>React v16.8 发布啦 试试新的Hooks！</p>
+<p><a href="https://medium.com/the-vue-point/vue-2-6-released-66aa6c8e785e" target="_blank" rel="external">Vue 2.6 Released</a><br>Vue 2.6提供了slots新语法 增强了错误处理</p>
+<p><a href="http://2ality.com/2019/01/future-js.html" target="_blank" rel="external">Future JavaScript: What’s Still Missing?</a><br>现阶段的JavaScript还缺少哪些重要功能？</p>
+<h4 id="REPO"><a href="#REPO" class="headerlink" title="REPO"></a>REPO</h4><p><a href="https://www.awesomes.cn/repo/esdoc/esdoc" target="_blank" rel="external">ESDoc</a><br>ESDoc - JavaScript 文档生成器</p>
+<p><a href="https://www.awesomes.cn/repo/a-jie/AniX" target="_blank" rel="external">AniX</a><br>超级简单和轻量的 JavaScript 动画库</p>
+<p><a href="https://www.awesomes.cn/repo/facebookincubator/fbt" target="_blank" rel="external">fbt</a><br>一个 JavaScript 国际化框架</p>
+<p><a href="https://cuke-ui.github.io/cuke-ui-landing/" target="_blank" rel="external">CUKE UI</a><br>由我司程序员开发的React UI库 黄瓜UI </p>
+<h4 id="OTHER"><a href="#OTHER" class="headerlink" title="OTHER"></a>OTHER</h4><p><a href="https://www.zdnet.com/article/microsoft-security-chief-ie-is-not-a-browser-so-stop-using-it-as-your-default/" target="_blank" rel="external">Microsoft Security Chief: IE Is Not A Browser, So Stop Using It As Your Default </a><br>微软网络安全全球主管：IE不是浏览器，请大家别用了</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h4 id=&quot;CSS&quot;&gt;&lt;a href=&quot;#CSS&quot; class=&quot;headerlink&quot; title=&quot;CSS&quot;&gt;&lt;/a&gt;CSS&lt;/h4&gt;&lt;p&gt;&lt;a href=&quot;https://css-irl.info/to-grid-or-to-flex/?utm_source=CSS-Weekly&amp;amp;utm_campaign=Issue-350&amp;amp;utm_medium=web&quot;&gt;To Grid or to Flex?&lt;/a&gt;&lt;br&gt;全面对比Grid和Flex布局&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.smashingmagazine.com/2019/02/css-browser-support/?utm_source=CSS-Weekly&amp;amp;utm_campaign=Issue-350&amp;amp;utm_medium=web&quot;&gt;A Guide To CSS Support In Browsers&lt;/a&gt;&lt;br&gt;轻松处理CSS在不同类型的浏览器支持问题&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://codepen.io/briziel/full/oJdNdB?utm_source=CSS-Weekly&amp;amp;utm_campaign=Issue-350&amp;amp;utm_medium=web&quot;&gt;Solar System 3D Animation&lt;/a&gt;&lt;br&gt;纯CSS实现的太阳系3D动画&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="monthly" scheme="http://thoughtworksinc.github.io/JS-Monthly-Chengdu/categories/monthly/"/>
+    
+    
+      <category term="monthly" scheme="http://thoughtworksinc.github.io/JS-Monthly-Chengdu/tags/monthly/"/>
+    
+  </entry>
   
   <entry>
     <title>JavaScript Monthly 第三十一期</title>
@@ -56,38 +92,6 @@
     <id>http://thoughtworksinc.github.io/JS-Monthly-Chengdu/2018/09/10/monthly-issue-32/</id>
     <published>2018-09-10T03:35:31.000Z</published>
     <updated>2019-02-19T07:33:50.000Z</updated>
-    
-    <content type="html"><![CDATA[<h4 id="NEWS"><a href="#NEWS" class="headerlink" title="NEWS"></a>NEWS</h4><p><a href="https://medium.com/vue-mastery/evan-you-previews-vue-js-3-0-ab063dec3547" target="_blank" rel="external">Vue 前瞻</a><br>尤雨溪带你了解 3.0 新特性</p>
-<a id="more"></a>
-<h4 id="REPOS"><a href="#REPOS" class="headerlink" title="REPOS"></a>REPOS</h4><p><a href="https://github.com/Nozbe/WatermelonDB" target="_blank" rel="external">Watermelon DB</a><br>React 和 React Native 下一代数据库</p>
-<p><a href="https://github.com/axa-group/nlp.js" target="_blank" rel="external">Nlp.js</a><br>Node 版本的 NLP</p>
-<p><a href="https://github.com/ianstormtaylor/slate" target="_blank" rel="external">Slate</a><br>一款可以自定义的富文本编辑器</p>
-<h4 id="TECHES"><a href="#TECHES" class="headerlink" title="TECHES"></a>TECHES</h4><p><a href="https://serviceworke.rs/" target="_blank" rel="external">Service Worker Cookbook</a><br>sw 的菜谱，你喜欢哪一道？</p>
-<p><a href="https://github.com/leonardomso/33-js-concepts" target="_blank" rel="external">33-js-concepts (中文版)</a><br>📜 33 concepts every JavaScript developer should know. (📜 每个 JavaScript 工程师都应懂的33个概念)</p>
-<p><a href="https://hacks.mozilla.org/2018/11/the-power-of-web-components/" target="_blank" rel="external">The Power of Web Components</a><br>Web Components 给 Web 更多的想象力</p>
-<h4 id="BASICS"><a href="#BASICS" class="headerlink" title="BASICS"></a>BASICS</h4><p><a href="https://levelup.gitconnected.com/the-definite-guide-to-handling-errors-gracefully-in-javascript-58424d9c60e6" target="_blank" rel="external">Handling Errors in JavaScript: The Definitive Guide</a><br>JavaScript 中错误处理的一份小册，值得参考</p>
-<p><a href="https://blog.kentcdodds.com/common-testing-mistakes-1a3d2d209f0" target="_blank" rel="external">Common Testing Mistakes</a><br>单元测试中常犯的错误，记下小本本</p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;h4 id=&quot;NEWS&quot;&gt;&lt;a href=&quot;#NEWS&quot; class=&quot;headerlink&quot; title=&quot;NEWS&quot;&gt;&lt;/a&gt;NEWS&lt;/h4&gt;&lt;p&gt;&lt;a href=&quot;https://medium.com/vue-mastery/evan-you-previews-vue-js-3-0-ab063dec3547&quot;&gt;Vue 前瞻&lt;/a&gt;&lt;br&gt;尤雨溪带你了解 3.0 新特性&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="monthly" scheme="http://thoughtworksinc.github.io/JS-Monthly-Chengdu/categories/monthly/"/>
-    
-    
-      <category term="monthly" scheme="http://thoughtworksinc.github.io/JS-Monthly-Chengdu/tags/monthly/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>JavaScript Monthly 第三十三期</title>
-    <link href="http://thoughtworksinc.github.io/JS-Monthly-Chengdu/2018/09/10/monthly-issue-33/"/>
-    <id>http://thoughtworksinc.github.io/JS-Monthly-Chengdu/2018/09/10/monthly-issue-33/</id>
-    <published>2018-09-10T03:35:31.000Z</published>
-    <updated>2019-05-13T07:44:07.000Z</updated>
     
     <content type="html"><![CDATA[<h4 id="NEWS"><a href="#NEWS" class="headerlink" title="NEWS"></a>NEWS</h4><p><a href="https://medium.com/vue-mastery/evan-you-previews-vue-js-3-0-ab063dec3547" target="_blank" rel="external">Vue 前瞻</a><br>尤雨溪带你了解 3.0 新特性</p>
 <a id="more"></a>
