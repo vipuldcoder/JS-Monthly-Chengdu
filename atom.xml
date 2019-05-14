@@ -5,7 +5,7 @@
   <link href="/JS-Monthly-Chengdu/atom.xml" rel="self"/>
   
   <link href="http://thoughtworksinc.github.io/JS-Monthly-Chengdu/"/>
-  <updated>2019-05-14T08:47:33.000Z</updated>
+  <updated>2019-05-14T08:50:17.000Z</updated>
   <id>http://thoughtworksinc.github.io/JS-Monthly-Chengdu/</id>
   
   <author>
@@ -16,11 +16,11 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>JavaScript Monthly 第三十四期</title>
-    <link href="http://thoughtworksinc.github.io/JS-Monthly-Chengdu/2019/03/18/monthly-issue-35/"/>
-    <id>http://thoughtworksinc.github.io/JS-Monthly-Chengdu/2019/03/18/monthly-issue-35/</id>
-    <published>2019-03-17T16:00:00.000Z</published>
-    <updated>2019-05-14T08:47:33.000Z</updated>
+    <title>JavaScript Monthly 第三十五期</title>
+    <link href="http://thoughtworksinc.github.io/JS-Monthly-Chengdu/2019/04/18/monthly-issue-35/"/>
+    <id>http://thoughtworksinc.github.io/JS-Monthly-Chengdu/2019/04/18/monthly-issue-35/</id>
+    <published>2019-04-17T16:00:00.000Z</published>
+    <updated>2019-05-14T08:50:17.000Z</updated>
     
     <content type="html"><![CDATA[<h4 id="CSS"><a href="#CSS" class="headerlink" title="CSS"></a>CSS</h4><p><a href="https://css-irl.info/how-to-convince-your-team-to-adopt-grid/" target="_blank" rel="external">How to Convince Your Team to Adopt CSS Grid</a><br>如何说服你的团队接受CSS Grid</p>
 <p><a href="http://clagnut.com/blog/2395" target="_blank" rel="external">All You Need to Know About Hyphenation in CSS</a><br>所有你需要知道的CSS连字符</p>
