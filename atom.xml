@@ -5,7 +5,7 @@
   <link href="/JS-Monthly-Chengdu/atom.xml" rel="self"/>
   
   <link href="http://thoughtworksinc.github.io/JS-Monthly-Chengdu/"/>
-  <updated>2019-05-14T08:14:39.000Z</updated>
+  <updated>2019-05-14T08:41:56.000Z</updated>
   <id>http://thoughtworksinc.github.io/JS-Monthly-Chengdu/</id>
   
   <author>
@@ -17,12 +17,12 @@
   
   <entry>
     <title>JavaScript Monthly 第三十四期</title>
-    <link href="http://thoughtworksinc.github.io/JS-Monthly-Chengdu/2019/03/18/monthly-issue-34/"/>
-    <id>http://thoughtworksinc.github.io/JS-Monthly-Chengdu/2019/03/18/monthly-issue-34/</id>
+    <link href="http://thoughtworksinc.github.io/JS-Monthly-Chengdu/2019/03/18/monthly-issue-35/"/>
+    <id>http://thoughtworksinc.github.io/JS-Monthly-Chengdu/2019/03/18/monthly-issue-35/</id>
     <published>2019-03-17T16:00:00.000Z</published>
-    <updated>2019-05-14T08:14:39.000Z</updated>
+    <updated>2019-05-14T08:41:56.000Z</updated>
     
-    <content type="html"><![CDATA[<h4 id="CSS"><a href="#CSS" class="headerlink" title="CSS"></a>CSS</h4><p><a href="https://blog.bitsrc.io/8-little-videos-about-the-firefox-shape-path-editor-96a12c7cd3b6" target="_blank" rel="external">8个火狐浏览器的Path编辑器的小视频</a><br>8 Little Videos About the Firefox Shape Path Editor</p>
+    <content type="html"><![CDATA[<h4 id="CSS"><a href="#CSS" class="headerlink" title="CSS"></a>CSS</h4><p><a href="https://blog.bitsrc.io/8-little-videos-about-the-firefox-shape-path-editor-96a12c7cd3b6" target="_blank" rel="external">8个火狐浏览器的Path编辑器的小视频</a><br>How to Convince Your Team to Adopt CSS Grid</p>
 <p><a href="https://www.nearform.com/blog/animation-in-react/" target="_blank" rel="external">Animation in React</a><br>轻松在React项目中加入动画</p>
 <p><a href="https://codepen.io/mikegolus/pen/rQpZOV" target="_blank" rel="external">CSS Quarto</a><br>纯CSS实现的大同棋游戏</p>
 <a id="more"></a>
@@ -37,7 +37,42 @@
     
     <summary type="html">
     
-      &lt;h4 id=&quot;CSS&quot;&gt;&lt;a href=&quot;#CSS&quot; class=&quot;headerlink&quot; title=&quot;CSS&quot;&gt;&lt;/a&gt;CSS&lt;/h4&gt;&lt;p&gt;&lt;a href=&quot;https://blog.bitsrc.io/8-little-videos-about-the-firefox-shape-path-editor-96a12c7cd3b6&quot;&gt;8个火狐浏览器的Path编辑器的小视频&lt;/a&gt;&lt;br&gt;8 Little Videos About the Firefox Shape Path Editor&lt;/p&gt;
+      &lt;h4 id=&quot;CSS&quot;&gt;&lt;a href=&quot;#CSS&quot; class=&quot;headerlink&quot; title=&quot;CSS&quot;&gt;&lt;/a&gt;CSS&lt;/h4&gt;&lt;p&gt;&lt;a href=&quot;https://blog.bitsrc.io/8-little-videos-about-the-firefox-shape-path-editor-96a12c7cd3b6&quot;&gt;8个火狐浏览器的Path编辑器的小视频&lt;/a&gt;&lt;br&gt;How to Convince Your Team to Adopt CSS Grid&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.nearform.com/blog/animation-in-react/&quot;&gt;Animation in React&lt;/a&gt;&lt;br&gt;轻松在React项目中加入动画&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://codepen.io/mikegolus/pen/rQpZOV&quot;&gt;CSS Quarto&lt;/a&gt;&lt;br&gt;纯CSS实现的大同棋游戏&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="monthly" scheme="http://thoughtworksinc.github.io/JS-Monthly-Chengdu/categories/monthly/"/>
+    
+    
+      <category term="monthly" scheme="http://thoughtworksinc.github.io/JS-Monthly-Chengdu/tags/monthly/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>JavaScript Monthly 第三十四期</title>
+    <link href="http://thoughtworksinc.github.io/JS-Monthly-Chengdu/2019/03/18/monthly-issue-34/"/>
+    <id>http://thoughtworksinc.github.io/JS-Monthly-Chengdu/2019/03/18/monthly-issue-34/</id>
+    <published>2019-03-17T16:00:00.000Z</published>
+    <updated>2019-05-14T08:42:26.000Z</updated>
+    
+    <content type="html"><![CDATA[<h4 id="CSS"><a href="#CSS" class="headerlink" title="CSS"></a>CSS</h4><p><a href="https://blog.bitsrc.io/8-little-videos-about-the-firefox-shape-path-editor-96a12c7cd3b6" target="_blank" rel="external">8 Little Videos About the Firefox Shape Path Editor</a><br>8个火狐浏览器的Path编辑器的小视频</p>
+<p><a href="https://www.nearform.com/blog/animation-in-react/" target="_blank" rel="external">Animation in React</a><br>轻松在React项目中加入动画</p>
+<p><a href="https://codepen.io/mikegolus/pen/rQpZOV" target="_blank" rel="external">CSS Quarto</a><br>纯CSS实现的大同棋游戏</p>
+<a id="more"></a>
+<h4 id="JAVASCRIPT"><a href="#JAVASCRIPT" class="headerlink" title="JAVASCRIPT"></a>JAVASCRIPT</h4><p><a href="https://developers.google.com/web/updates/2019/03/kv-storage" target="_blank" rel="external">KV Storage: the Web’s First Built-in Module</a><br>KV Storage: 浏览器的第一个内置模块</p>
+<p><a href="https://developers.google.com/web/fundamentals/performance/resource-prioritization" target="_blank" rel="external">Resource Prioritization – Getting the Browser to Help You</a><br>让浏览器帮助你管理资源优先级</p>
+<p><a href="https://overreacted.io/a-complete-guide-to-useeffect/" target="_blank" rel="external">A Complete Guide to React’s useEffect</a><br>使用React useEffect的完整指南</p>
+<h4 id="REPO"><a href="#REPO" class="headerlink" title="REPO"></a>REPO</h4><p><a href="https://split.js.org/" target="_blank" rel="external">Split.js</a><br>Split.js 2kb 零依赖 帮助你快速实现页面布局</p>
+<p><a href="https://victordibia.github.io/handtrack.js/#/" target="_blank" rel="external">handtrack.js</a><br>使用Tensorflow.js和三行代码实现手部跟踪</p>
+<p><a href="https://www.color-ui.com/" target="_blank" rel="external">Color UI</a><br>鲜亮的高饱和色彩，专注视觉的小程序组件库</p>
+<p><a href="https://cuke-ui.github.io/cuke-ui-landing/" target="_blank" rel="external">CUKE UI</a><br>由我司程序员开发的React UI库 黄瓜UI </p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h4 id=&quot;CSS&quot;&gt;&lt;a href=&quot;#CSS&quot; class=&quot;headerlink&quot; title=&quot;CSS&quot;&gt;&lt;/a&gt;CSS&lt;/h4&gt;&lt;p&gt;&lt;a href=&quot;https://blog.bitsrc.io/8-little-videos-about-the-firefox-shape-path-editor-96a12c7cd3b6&quot;&gt;8 Little Videos About the Firefox Shape Path Editor&lt;/a&gt;&lt;br&gt;8个火狐浏览器的Path编辑器的小视频&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://www.nearform.com/blog/animation-in-react/&quot;&gt;Animation in React&lt;/a&gt;&lt;br&gt;轻松在React项目中加入动画&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://codepen.io/mikegolus/pen/rQpZOV&quot;&gt;CSS Quarto&lt;/a&gt;&lt;br&gt;纯CSS实现的大同棋游戏&lt;/p&gt;
     
@@ -629,47 +664,6 @@
       &lt;h4 id=&quot;News&quot;&gt;&lt;a href=&quot;#News&quot; class=&quot;headerlink&quot; title=&quot;News&quot;&gt;&lt;/a&gt;News&lt;/h4&gt;&lt;hr&gt;
 &lt;p&gt;&lt;a href=&quot;https://blog.logrocket.com/using-the-chrome-devtools-new-code-coverage-feature-ca96c3dddcaf&quot;&gt;Chrome 代码覆盖率特性&lt;/a&gt;&lt;br&gt;Chrome Devtools推出代码覆盖率特性,强大&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;http://angularjs.blogspot.com/2017/03/angular-400-now-available.html?utm_source=javascriptweekly&amp;amp;utm_medium=email&quot;&gt;Angular4&lt;/a&gt;&lt;br&gt;Angular4 Released，更小的AOT生成代码，更好Server Render支持&lt;br&gt;
-    
-    </summary>
-    
-      <category term="monthly" scheme="http://thoughtworksinc.github.io/JS-Monthly-Chengdu/categories/monthly/"/>
-    
-    
-      <category term="monthly" scheme="http://thoughtworksinc.github.io/JS-Monthly-Chengdu/tags/monthly/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>JavaScript Monthly 第十五期</title>
-    <link href="http://thoughtworksinc.github.io/JS-Monthly-Chengdu/2017/02/15/monthly-issue-15/"/>
-    <id>http://thoughtworksinc.github.io/JS-Monthly-Chengdu/2017/02/15/monthly-issue-15/</id>
-    <published>2017-02-15T15:26:46.000Z</published>
-    <updated>2019-02-19T07:33:50.000Z</updated>
-    
-    <content type="html"><![CDATA[<h4 id="Tech"><a href="#Tech" class="headerlink" title="Tech"></a>Tech</h4><hr>
-<p><a href="https://github.com/MicheleBertoli/react-fix-it" target="_blank" rel="external">React fix it</a><br>黑科技–测试生成驱动React开发</p>
-<p><a href="http://zazuapp.org/documentation/" target="_blank" rel="external">Zazu App</a><br>Nodejs版本的Alfred，跨平台</p>
-<p><a href="https://github.com/amark/gun" target="_blank" rel="external">Gun</a><br>轻量级Distributed DB</p>
-<a id="more"></a>
-<p><a href="https://github.com/zeit/hyper" target="_blank" rel="external">Hyper</a><br>基于electron的酷炫term！</p>
-<p><a href="https://svelte.technology/" target="_blank" rel="external">Svelte</a><br>你还在打包？你还在做code split？这个UI框架帮你做了</p>
-<p><a href="http://conditionerjs.com/" target="_blank" rel="external">Conditioner.js</a><br>前端Feature Toggle工具</p>
-<p><a href="https://github.com/cujojs/most" target="_blank" rel="external">Most</a><br>性能优先的响应式编程工具库</p>
-<p><a href="https://github.com/airbnb/lottie-react-native" target="_blank" rel="external">Lottie React Native</a><br>现在可以通过AE特效自动生成React Native自定义组件了！！</p>
-<h4 id="Repo"><a href="#Repo" class="headerlink" title="Repo"></a>Repo</h4><hr>
-<p><a href="https://github.com/wulkano/kap" target="_blank" rel="external">Kap</a><br>前端攻城狮还能怎么玩，写个录屏应用吧</p>
-<p><a href="https://github.com/maichong/labrador" target="_blank" rel="external">Labrador</a><br>想高端地玩微信小程序，一定不能错过这个</p>
-<h4 id="Basic"><a href="#Basic" class="headerlink" title="Basic"></a>Basic</h4><hr>
-<p><a href="https://github.com/FormidableLabs/redux-little-router" target="_blank" rel="external">React Little Router</a><br>高性能轻量级react redux router方案，如果你的应用在变得臃肿，请考虑这个</p>
-<p><a href="https://nodesource.com/blog/eleven-npm-tricks-that-will-knock-your-wombat-socks-off/?utm_source=nodeweekly&amp;utm_medium=email" target="_blank" rel="external">eleven-npm-tricks-that-will-knock-your-wombat-socks-off</a><br>11个你不知道的NPM奇葩功能</p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;h4 id=&quot;Tech&quot;&gt;&lt;a href=&quot;#Tech&quot; class=&quot;headerlink&quot; title=&quot;Tech&quot;&gt;&lt;/a&gt;Tech&lt;/h4&gt;&lt;hr&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/MicheleBertoli/react-fix-it&quot;&gt;React fix it&lt;/a&gt;&lt;br&gt;黑科技–测试生成驱动React开发&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://zazuapp.org/documentation/&quot;&gt;Zazu App&lt;/a&gt;&lt;br&gt;Nodejs版本的Alfred，跨平台&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/amark/gun&quot;&gt;Gun&lt;/a&gt;&lt;br&gt;轻量级Distributed DB&lt;/p&gt;
     
     </summary>
     
