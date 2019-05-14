@@ -5,7 +5,7 @@
   <link href="/JS-Monthly-Chengdu/atom.xml" rel="self"/>
   
   <link href="http://thoughtworksinc.github.io/JS-Monthly-Chengdu/"/>
-  <updated>2019-05-13T09:49:04.000Z</updated>
+  <updated>2019-05-14T08:14:39.000Z</updated>
   <id>http://thoughtworksinc.github.io/JS-Monthly-Chengdu/</id>
   
   <author>
@@ -14,6 +14,41 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>JavaScript Monthly 第三十四期</title>
+    <link href="http://thoughtworksinc.github.io/JS-Monthly-Chengdu/2019/03/18/monthly-issue-34/"/>
+    <id>http://thoughtworksinc.github.io/JS-Monthly-Chengdu/2019/03/18/monthly-issue-34/</id>
+    <published>2019-03-17T16:00:00.000Z</published>
+    <updated>2019-05-14T08:14:39.000Z</updated>
+    
+    <content type="html"><![CDATA[<h4 id="CSS"><a href="#CSS" class="headerlink" title="CSS"></a>CSS</h4><p><a href="https://blog.bitsrc.io/8-little-videos-about-the-firefox-shape-path-editor-96a12c7cd3b6" target="_blank" rel="external">8个火狐浏览器的Path编辑器的小视频</a><br>8 Little Videos About the Firefox Shape Path Editor</p>
+<p><a href="https://www.nearform.com/blog/animation-in-react/" target="_blank" rel="external">Animation in React</a><br>轻松在React项目中加入动画</p>
+<p><a href="https://codepen.io/mikegolus/pen/rQpZOV" target="_blank" rel="external">CSS Quarto</a><br>纯CSS实现的大同棋游戏</p>
+<a id="more"></a>
+<h4 id="JAVASCRIPT"><a href="#JAVASCRIPT" class="headerlink" title="JAVASCRIPT"></a>JAVASCRIPT</h4><p><a href="https://developers.google.com/web/updates/2019/03/kv-storage" target="_blank" rel="external">KV Storage: the Web’s First Built-in Module</a><br>KV Storage: 浏览器的第一个内置模块</p>
+<p><a href="https://developers.google.com/web/fundamentals/performance/resource-prioritization" target="_blank" rel="external">Resource Prioritization – Getting the Browser to Help You</a><br>让浏览器帮助你管理资源优先级</p>
+<p><a href="https://overreacted.io/a-complete-guide-to-useeffect/" target="_blank" rel="external">A Complete Guide to React’s useEffect</a><br>使用React useEffect的完整指南</p>
+<h4 id="REPO"><a href="#REPO" class="headerlink" title="REPO"></a>REPO</h4><p><a href="https://split.js.org/" target="_blank" rel="external">Split.js</a><br>Split.js 2kb 零依赖 帮助你快速实现页面布局</p>
+<p><a href="https://victordibia.github.io/handtrack.js/#/" target="_blank" rel="external">handtrack.js</a><br>使用Tensorflow.js和三行代码实现手部跟踪</p>
+<p><a href="https://www.color-ui.com/" target="_blank" rel="external">Color UI</a><br>鲜亮的高饱和色彩，专注视觉的小程序组件库</p>
+<p><a href="https://cuke-ui.github.io/cuke-ui-landing/" target="_blank" rel="external">CUKE UI</a><br>由我司程序员开发的React UI库 黄瓜UI </p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h4 id=&quot;CSS&quot;&gt;&lt;a href=&quot;#CSS&quot; class=&quot;headerlink&quot; title=&quot;CSS&quot;&gt;&lt;/a&gt;CSS&lt;/h4&gt;&lt;p&gt;&lt;a href=&quot;https://blog.bitsrc.io/8-little-videos-about-the-firefox-shape-path-editor-96a12c7cd3b6&quot;&gt;8个火狐浏览器的Path编辑器的小视频&lt;/a&gt;&lt;br&gt;8 Little Videos About the Firefox Shape Path Editor&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.nearform.com/blog/animation-in-react/&quot;&gt;Animation in React&lt;/a&gt;&lt;br&gt;轻松在React项目中加入动画&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://codepen.io/mikegolus/pen/rQpZOV&quot;&gt;CSS Quarto&lt;/a&gt;&lt;br&gt;纯CSS实现的大同棋游戏&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="monthly" scheme="http://thoughtworksinc.github.io/JS-Monthly-Chengdu/categories/monthly/"/>
+    
+    
+      <category term="monthly" scheme="http://thoughtworksinc.github.io/JS-Monthly-Chengdu/tags/monthly/"/>
+    
+  </entry>
   
   <entry>
     <title>JavaScript Monthly 第三十三期</title>
@@ -635,38 +670,6 @@
 &lt;p&gt;&lt;a href=&quot;https://github.com/MicheleBertoli/react-fix-it&quot;&gt;React fix it&lt;/a&gt;&lt;br&gt;黑科技–测试生成驱动React开发&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;http://zazuapp.org/documentation/&quot;&gt;Zazu App&lt;/a&gt;&lt;br&gt;Nodejs版本的Alfred，跨平台&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://github.com/amark/gun&quot;&gt;Gun&lt;/a&gt;&lt;br&gt;轻量级Distributed DB&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="monthly" scheme="http://thoughtworksinc.github.io/JS-Monthly-Chengdu/categories/monthly/"/>
-    
-    
-      <category term="monthly" scheme="http://thoughtworksinc.github.io/JS-Monthly-Chengdu/tags/monthly/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>JavaScript Monthly 第十四期</title>
-    <link href="http://thoughtworksinc.github.io/JS-Monthly-Chengdu/2016/12/02/monthly-issue-14/"/>
-    <id>http://thoughtworksinc.github.io/JS-Monthly-Chengdu/2016/12/02/monthly-issue-14/</id>
-    <published>2016-12-02T03:09:59.000Z</published>
-    <updated>2019-02-19T07:33:50.000Z</updated>
-    
-    <content type="html"><![CDATA[<h4 id="Tech"><a href="#Tech" class="headerlink" title="Tech"></a>Tech</h4><hr>
-<p><a href="https://github.com/samyk/poisontap" target="_blank" rel="external">Hacking Device</a><br>插上USB，就可以黑掉你，这不是电影</p>
-<a id="more"></a>
-<h4 id="Repos"><a href="#Repos" class="headerlink" title="Repos"></a>Repos</h4><hr>
-<p><a href="https://github.com/WhitestormJS/whitestorm.js" target="_blank" rel="external">3D in JS</a><br>AR/VR不是问题，有物理引擎的3D绘图工具来帮你</p>
-<p><a href="https://github.com/airbnb/babel-plugin-dynamic-import-webpack" target="_blank" rel="external">Dynamic Import</a><br>Babel新插件，自动实现Dynamic Import</p>
-<h4 id="Basic"><a href="#Basic" class="headerlink" title="Basic"></a>Basic</h4><hr>
-<p><a href="https://github.com/molnarg/node-http2" target="_blank" rel="external">HTTP2</a><br>HTTP2.0 is the future</p>
-<p><a href="https://github.com/zeit/next.js" target="_blank" rel="external">Next.js</a><br>React技术栈集成，快速搭建项目</p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;h4 id=&quot;Tech&quot;&gt;&lt;a href=&quot;#Tech&quot; class=&quot;headerlink&quot; title=&quot;Tech&quot;&gt;&lt;/a&gt;Tech&lt;/h4&gt;&lt;hr&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/samyk/poisontap&quot;&gt;Hacking Device&lt;/a&gt;&lt;br&gt;插上USB，就可以黑掉你，这不是电影&lt;/p&gt;
     
     </summary>
     
