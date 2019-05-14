@@ -5,7 +5,7 @@
   <link href="/JS-Monthly-Chengdu/atom.xml" rel="self"/>
   
   <link href="http://thoughtworksinc.github.io/JS-Monthly-Chengdu/"/>
-  <updated>2019-05-14T08:41:56.000Z</updated>
+  <updated>2019-05-14T08:47:33.000Z</updated>
   <id>http://thoughtworksinc.github.io/JS-Monthly-Chengdu/</id>
   
   <author>
@@ -20,26 +20,25 @@
     <link href="http://thoughtworksinc.github.io/JS-Monthly-Chengdu/2019/03/18/monthly-issue-35/"/>
     <id>http://thoughtworksinc.github.io/JS-Monthly-Chengdu/2019/03/18/monthly-issue-35/</id>
     <published>2019-03-17T16:00:00.000Z</published>
-    <updated>2019-05-14T08:41:56.000Z</updated>
+    <updated>2019-05-14T08:47:33.000Z</updated>
     
-    <content type="html"><![CDATA[<h4 id="CSS"><a href="#CSS" class="headerlink" title="CSS"></a>CSS</h4><p><a href="https://blog.bitsrc.io/8-little-videos-about-the-firefox-shape-path-editor-96a12c7cd3b6" target="_blank" rel="external">8个火狐浏览器的Path编辑器的小视频</a><br>How to Convince Your Team to Adopt CSS Grid</p>
-<p><a href="https://www.nearform.com/blog/animation-in-react/" target="_blank" rel="external">Animation in React</a><br>轻松在React项目中加入动画</p>
-<p><a href="https://codepen.io/mikegolus/pen/rQpZOV" target="_blank" rel="external">CSS Quarto</a><br>纯CSS实现的大同棋游戏</p>
+    <content type="html"><![CDATA[<h4 id="CSS"><a href="#CSS" class="headerlink" title="CSS"></a>CSS</h4><p><a href="https://css-irl.info/how-to-convince-your-team-to-adopt-grid/" target="_blank" rel="external">How to Convince Your Team to Adopt CSS Grid</a><br>如何说服你的团队接受CSS Grid</p>
+<p><a href="http://clagnut.com/blog/2395" target="_blank" rel="external">All You Need to Know About Hyphenation in CSS</a><br>所有你需要知道的CSS连字符</p>
+<p><a href="https://codyhouse.co/blog/post/dark-light-switch-css-javascript" target="_blank" rel="external">How to Create a Dark\Light Mode Switch in CSS and Javascript</a><br>如何使用CSS和JS来创建Dark\Light模式</p>
 <a id="more"></a>
-<h4 id="JAVASCRIPT"><a href="#JAVASCRIPT" class="headerlink" title="JAVASCRIPT"></a>JAVASCRIPT</h4><p><a href="https://developers.google.com/web/updates/2019/03/kv-storage" target="_blank" rel="external">KV Storage: the Web’s First Built-in Module</a><br>KV Storage: 浏览器的第一个内置模块</p>
-<p><a href="https://developers.google.com/web/fundamentals/performance/resource-prioritization" target="_blank" rel="external">Resource Prioritization – Getting the Browser to Help You</a><br>让浏览器帮助你管理资源优先级</p>
-<p><a href="https://overreacted.io/a-complete-guide-to-useeffect/" target="_blank" rel="external">A Complete Guide to React’s useEffect</a><br>使用React useEffect的完整指南</p>
-<h4 id="REPO"><a href="#REPO" class="headerlink" title="REPO"></a>REPO</h4><p><a href="https://split.js.org/" target="_blank" rel="external">Split.js</a><br>Split.js 2kb 零依赖 帮助你快速实现页面布局</p>
-<p><a href="https://victordibia.github.io/handtrack.js/#/" target="_blank" rel="external">handtrack.js</a><br>使用Tensorflow.js和三行代码实现手部跟踪</p>
-<p><a href="https://www.color-ui.com/" target="_blank" rel="external">Color UI</a><br>鲜亮的高饱和色彩，专注视觉的小程序组件库</p>
-<p><a href="https://cuke-ui.github.io/cuke-ui-landing/" target="_blank" rel="external">CUKE UI</a><br>由我司程序员开发的React UI库 黄瓜UI </p>
+<h4 id="JAVASCRIPT"><a href="#JAVASCRIPT" class="headerlink" title="JAVASCRIPT"></a>JAVASCRIPT</h4><p><a href="https://devblogs.microsoft.com/typescript/announcing-typescript-3-4/" target="_blank" rel="external">Announcing TypeScript 3.4</a><br>TypeScript 3.4发布了</p>
+<p><a href="https://github.com/twitter/twemoji" target="_blank" rel="external">jQuery 3.4.0 Released</a><br>jQuery 3.4发布了</p>
+<p><a href="https://overreacted.io/a-complete-guide-to-useeffect/" target="_blank" rel="external">Twemoji (Twitter Emoji): Emojis for Everyone</a><br>Twemoji：一个Emojis库</p>
+<h4 id="REPO"><a href="#REPO" class="headerlink" title="REPO"></a>REPO</h4><p><a href="https://wangchujiang.com/hotkeys/" target="_blank" rel="external">hotkeys.js</a><br>用于捕获键盘输入和组合键 零依赖</p>
+<p><a href="http://mozilla.github.io/nunjucks/" target="_blank" rel="external">Nunjucks</a><br>一种强大的JavaScript模板引擎</p>
+<p><a href="https://codex.so/editor" target="_blank" rel="external">Editor.js</a><br>一个block styled编辑器 </p>
 ]]></content>
     
     <summary type="html">
     
-      &lt;h4 id=&quot;CSS&quot;&gt;&lt;a href=&quot;#CSS&quot; class=&quot;headerlink&quot; title=&quot;CSS&quot;&gt;&lt;/a&gt;CSS&lt;/h4&gt;&lt;p&gt;&lt;a href=&quot;https://blog.bitsrc.io/8-little-videos-about-the-firefox-shape-path-editor-96a12c7cd3b6&quot;&gt;8个火狐浏览器的Path编辑器的小视频&lt;/a&gt;&lt;br&gt;How to Convince Your Team to Adopt CSS Grid&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://www.nearform.com/blog/animation-in-react/&quot;&gt;Animation in React&lt;/a&gt;&lt;br&gt;轻松在React项目中加入动画&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://codepen.io/mikegolus/pen/rQpZOV&quot;&gt;CSS Quarto&lt;/a&gt;&lt;br&gt;纯CSS实现的大同棋游戏&lt;/p&gt;
+      &lt;h4 id=&quot;CSS&quot;&gt;&lt;a href=&quot;#CSS&quot; class=&quot;headerlink&quot; title=&quot;CSS&quot;&gt;&lt;/a&gt;CSS&lt;/h4&gt;&lt;p&gt;&lt;a href=&quot;https://css-irl.info/how-to-convince-your-team-to-adopt-grid/&quot;&gt;How to Convince Your Team to Adopt CSS Grid&lt;/a&gt;&lt;br&gt;如何说服你的团队接受CSS Grid&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://clagnut.com/blog/2395&quot;&gt;All You Need to Know About Hyphenation in CSS&lt;/a&gt;&lt;br&gt;所有你需要知道的CSS连字符&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://codyhouse.co/blog/post/dark-light-switch-css-javascript&quot;&gt;How to Create a Dark\Light Mode Switch in CSS and Javascript&lt;/a&gt;&lt;br&gt;如何使用CSS和JS来创建Dark\Light模式&lt;/p&gt;
     
     </summary>
     
