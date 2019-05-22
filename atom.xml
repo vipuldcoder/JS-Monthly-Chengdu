@@ -5,7 +5,7 @@
   <link href="/JS-Monthly-Chengdu/atom.xml" rel="self"/>
   
   <link href="http://thoughtworksinc.github.io/JS-Monthly-Chengdu/"/>
-  <updated>2019-05-14T08:50:17.000Z</updated>
+  <updated>2019-05-22T07:22:31.000Z</updated>
   <id>http://thoughtworksinc.github.io/JS-Monthly-Chengdu/</id>
   
   <author>
@@ -14,6 +14,40 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>JavaScript Monthly 第三十六期</title>
+    <link href="http://thoughtworksinc.github.io/JS-Monthly-Chengdu/2019/05/21/monthly-issue-36/"/>
+    <id>http://thoughtworksinc.github.io/JS-Monthly-Chengdu/2019/05/21/monthly-issue-36/</id>
+    <published>2019-05-20T16:00:00.000Z</published>
+    <updated>2019-05-22T07:22:31.000Z</updated>
+    
+    <content type="html"><![CDATA[<h4 id="CSS"><a href="#CSS" class="headerlink" title="CSS"></a>CSS</h4><p><a href="https://medium.freecodecamp.org/the-css-handbook-a-handy-guide-to-css-for-developers-b56695917d11" target="_blank" rel="external">The CSS Handbook: A Handy Guide to CSS for Developers</a><br>Flavio Copes写了一份指南，帮助任何人快速学习CSS基础并熟悉高级CSS</p>
+<p><a href="https://css-tricks.com/edge-goes-chromium-what-does-it-mean-for-front-end-developers/" target="_blank" rel="external">Edge Goes Chromium: What Does it Mean for Front-End Developers?</a><br>Ollie Williams分析了Microsoft Edge切换到Chromium的影响</p>
+<p><a href="https://blog.logrocket.com/understanding-shadow-dom-v1-fa9b81ebe3ac" target="_blank" rel="external">Understanding Shadow DOM v1</a><br>Faraz Kelhini介绍了Shadow DOM.</p>
+<a id="more"></a>
+<h4 id="JAVASCRIPT"><a href="#JAVASCRIPT" class="headerlink" title="JAVASCRIPT"></a>JAVASCRIPT</h4><p><a href="https://frontendmasters.com/books/front-end-handbook/2019/" target="_blank" rel="external">Front-End Developer Handbook 2019</a><br>Cody Lindley创建了一本指南，其中包含前端工程中的最新学习资源和开发工具</p>
+<p><a href="https://mathiasbynens.be/notes/globalthis" target="_blank" rel="external">A ‘Horrifying’ (or Genius?) globalThis Polyfill</a><br>Mathias对于当前JavaScript实现所提议的’globalThis’功能并不失望，但事实证明这很难实现</p>
+<p><a href="https://medium.com/@nodejs/introducing-node-js-12-76c41a1b3f3f" target="_blank" rel="external">Node.js 12 Released, And It’s a Big One</a><br>Node.js 12发布啦</p>
+<h4 id="REPO"><a href="#REPO" class="headerlink" title="REPO"></a>REPO</h4><p><a href="https://atomiks.github.io/tippyjs/" target="_blank" rel="external">Tippy.js</a><br>高度可定制的Tooltip和Popover库</p>
+<p><a href="https://github.com/francoischalifour/medium-zoom" target="_blank" rel="external">Medium-Zoom</a><br>用于缩放图像的响应性，高性能JavaScript库</p>
+<p><a href="https://github.com/niklasvh/html2canvas" target="_blank" rel="external">html2canvas</a><br>直接在用户浏览器上截取网页或部分网页的“屏幕截图”工具</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h4 id=&quot;CSS&quot;&gt;&lt;a href=&quot;#CSS&quot; class=&quot;headerlink&quot; title=&quot;CSS&quot;&gt;&lt;/a&gt;CSS&lt;/h4&gt;&lt;p&gt;&lt;a href=&quot;https://medium.freecodecamp.org/the-css-handbook-a-handy-guide-to-css-for-developers-b56695917d11&quot;&gt;The CSS Handbook: A Handy Guide to CSS for Developers&lt;/a&gt;&lt;br&gt;Flavio Copes写了一份指南，帮助任何人快速学习CSS基础并熟悉高级CSS&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://css-tricks.com/edge-goes-chromium-what-does-it-mean-for-front-end-developers/&quot;&gt;Edge Goes Chromium: What Does it Mean for Front-End Developers?&lt;/a&gt;&lt;br&gt;Ollie Williams分析了Microsoft Edge切换到Chromium的影响&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://blog.logrocket.com/understanding-shadow-dom-v1-fa9b81ebe3ac&quot;&gt;Understanding Shadow DOM v1&lt;/a&gt;&lt;br&gt;Faraz Kelhini介绍了Shadow DOM.&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="monthly" scheme="http://thoughtworksinc.github.io/JS-Monthly-Chengdu/categories/monthly/"/>
+    
+    
+      <category term="monthly" scheme="http://thoughtworksinc.github.io/JS-Monthly-Chengdu/tags/monthly/"/>
+    
+  </entry>
   
   <entry>
     <title>JavaScript Monthly 第三十五期</title>
@@ -628,41 +662,6 @@
     <summary type="html">
     
       &lt;h4 id=&quot;News&quot;&gt;&lt;a href=&quot;#News&quot; class=&quot;headerlink&quot; title=&quot;News&quot;&gt;&lt;/a&gt;News&lt;/h4&gt;&lt;p&gt;&lt;a href=&quot;http://2017.jsconf.cn/&quot;&gt;JsConf China&lt;/a&gt;&lt;br&gt;一年一届JS盛会，今年，上海&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="monthly" scheme="http://thoughtworksinc.github.io/JS-Monthly-Chengdu/categories/monthly/"/>
-    
-    
-      <category term="monthly" scheme="http://thoughtworksinc.github.io/JS-Monthly-Chengdu/tags/monthly/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>JavaScript Monthly 第十六期</title>
-    <link href="http://thoughtworksinc.github.io/JS-Monthly-Chengdu/2017/04/19/monthly-issue-16/"/>
-    <id>http://thoughtworksinc.github.io/JS-Monthly-Chengdu/2017/04/19/monthly-issue-16/</id>
-    <published>2017-04-19T02:12:53.000Z</published>
-    <updated>2019-02-19T07:33:50.000Z</updated>
-    
-    <content type="html"><![CDATA[<h4 id="News"><a href="#News" class="headerlink" title="News"></a>News</h4><hr>
-<p><a href="https://blog.logrocket.com/using-the-chrome-devtools-new-code-coverage-feature-ca96c3dddcaf" target="_blank" rel="external">Chrome 代码覆盖率特性</a><br>Chrome Devtools推出代码覆盖率特性,强大</p>
-<p><a href="http://angularjs.blogspot.com/2017/03/angular-400-now-available.html?utm_source=javascriptweekly&amp;utm_medium=email" target="_blank" rel="external">Angular4</a><br>Angular4 Released，更小的AOT生成代码，更好Server Render支持<br><a id="more"></a></p>
-<p><a href="https://zeit.co/blog/next2?utm_source=nodeweekly&amp;utm_medium=email" target="_blank" rel="external">Next.js 2.0</a><br>Next 2.0, 全面优化，全家桶式的React服务端渲染解决方案</p>
-<h4 id="Tech"><a href="#Tech" class="headerlink" title="Tech"></a>Tech</h4><hr>
-<p><a href="https://ponyfoo.com/articles/regular-expressions-post-es6?utm_source=javascriptweekly&amp;utm_medium=email" target="_blank" rel="external">es6后时代的正则表达式</a><br>更好更强大的正则表达式来了</p>
-<p><a href="http://jlongster.com/prettier-1.0?utm_source=javascriptweekly&amp;utm_medium=email" target="_blank" rel="external">Prettier</a><br>可配置的代码格式化工具</p>
-<h4 id="Repo"><a href="#Repo" class="headerlink" title="Repo"></a>Repo</h4><hr>
-<p><a href="https://github.com/rlidwka/sinopia" target="_blank" rel="external">Sinopia</a><br>纯JS+文件系统搭建Private NPM</p>
-<h4 id="Basic"><a href="#Basic" class="headerlink" title="Basic"></a>Basic</h4><hr>
-<p><a href="https://www.sitepoint.com/dom-manipulation-vanilla-javascript-no-jquery/?utm_source=javascriptweekly&amp;utm_medium=email" target="_blank" rel="external">The Basics of DOM Manipulation in Vanilla JavaScript (No jQuery)</a><br>Vanilla.js操作DOM指南，你不一定需要JQuery。</p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;h4 id=&quot;News&quot;&gt;&lt;a href=&quot;#News&quot; class=&quot;headerlink&quot; title=&quot;News&quot;&gt;&lt;/a&gt;News&lt;/h4&gt;&lt;hr&gt;
-&lt;p&gt;&lt;a href=&quot;https://blog.logrocket.com/using-the-chrome-devtools-new-code-coverage-feature-ca96c3dddcaf&quot;&gt;Chrome 代码覆盖率特性&lt;/a&gt;&lt;br&gt;Chrome Devtools推出代码覆盖率特性,强大&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://angularjs.blogspot.com/2017/03/angular-400-now-available.html?utm_source=javascriptweekly&amp;amp;utm_medium=email&quot;&gt;Angular4&lt;/a&gt;&lt;br&gt;Angular4 Released，更小的AOT生成代码，更好Server Render支持&lt;br&gt;
     
     </summary>
     
